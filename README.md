@@ -1,7 +1,7 @@
 # PROJECT-VANTARED
 Certainly! Here's a detailed and refined description for your project, "PROJECT VANTARED":
 
-PROJECT VANTARED - Face Detection and Recognition System
+**PROJECT VANTARED** - Face Detection and Recognition System
 
 Description:
 Project VANTARED is an innovative face detection and recognition system designed for real-time applications. Leveraging a robust tech stack and cutting-edge libraries, this project seamlessly integrates computer vision and deep learning to achieve accurate and efficient facial recognition.
