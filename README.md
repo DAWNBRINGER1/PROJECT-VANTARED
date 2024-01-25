@@ -31,3 +31,5 @@ Project VANTARED is an innovative face detection and recognition system designed
 - **Project Organization and Error Handling:** The project showcases effective organization by categorizing detected faces into matched and unmatched folders. Robust error handling mechanisms are implemented, moving images to an "undetected" folder when faces cannot be recognized.
 
 Project VANTARED stands at the intersection of computer vision, deep learning, and geolocation, offering a comprehensive solution for face detection and recognition in real-world scenarios. The utilization of state-of-the-art libraries and a thoughtful tech stack ensures both accuracy and efficiency in identifying individuals and their potential locations.
+
+
