@@ -1,5 +1,5 @@
 # PROJECT-VANTARED
-Certainly! Here's a detailed and refined description for your project, "PROJECT VANTARED":
+
 
 **PROJECT VANTARED** - Face Detection and Recognition System
 
